@@ -1,4 +1,3 @@
 # Deneyap_RollPitchYaw_OledGraph
-Printing the graph of Roll Pitch Yaw axes on oled screen with Deneyap card.
-
+The angles of the rotation axes (roll, pitch and yaw) on the card were taken with the sensor on the Experiment card. The graph of the received axis angles was printed on the oled screen.
 ![Pinout](https://github.com/zeynepdicle/Deneyap_RollPitchYaw_OledGraph/blob/main/image/pinout.jpg)

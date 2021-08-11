@@ -1,7 +1,7 @@
 #include "deneyap.h"
 #include "lsm6dsm.h"
-#include <Adafruit_GFX.h>    // Core graphics library
-#include <Adafruit_ST7735.h> // Hardware-specific library for ST7735
+#include <Adafruit_GFX.h>    
+#include <Adafruit_ST7735.h> 
 #include <SPI.h>
 
   #define TFT_CS         D0

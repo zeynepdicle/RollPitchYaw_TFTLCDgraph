@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 #include "deneyap.h"
 #include "lsm6dsm.h"
 #include <Adafruit_GFX.h>    
